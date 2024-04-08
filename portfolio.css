@@ -829,4 +829,19 @@ padding-right:45px;
 	
 
 }
+@media (max-height:460px)
+{
+	.content
+	{
+	
+	margin-top:10%;
+	
+	}
+	.content h4
+	{
+		margin-top:5%;
+		
+	}
+	
+}
 
